@@ -1,0 +1,156 @@
+#nine-dots-player span.play-text{
+	color: transparent !important;
+	background: transparent;
+}
+#nine-dots-player,.wp-nine-dots-player {
+    display: block !important;
+    height: 65px !important;
+}
+
+div#collapseOne {
+    overflow: hidden;
+    transition: height 400ms ease-out 0s;
+}
+#collapseSpeed, #collapseShare{
+	transition: height 400ms ease-out 0s;
+}
+
+.ninedots-player .panel-group .player-bot{
+	padding-bottom: 40pt;
+    padding-top: 50pt;
+}
+
+.ninedots-player .player-top{
+	padding-bottom: 23.5pt;
+}
+.ninedots-player .speed-list, .ninedots-player .share-list{
+	bottom:12px;
+}
+
+#ninedots-track-list .tl-description {
+    font-size: 17px;
+	line-height: 1.2;
+}
+
+.ninedots-player .speed-btn span {
+	margin-bottom: 10px;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+	top: -.53em;
+}
+.ninedots-player .player-progress{
+	bottom:13px;
+}
+
+.close-btn-wrapper{
+	top: -67px;
+}
+
+.ninedots-player span.toggle-speed {
+    margin-bottom: 20px;
+}
+
+.hidden {
+    display: none!important;
+    visibility: hidden!important;
+}
+
+#ninedots-categories-list a.tl-link .span-playtrack-thumb{
+	height: 52px;
+}
+
+#ninedots-categories-list .ps__rail-x{
+	top: 65px;
+}
+
+#ninedots-categories-list a.tl-link .span-playtrack-thumb{
+	background: url('category.png');
+	background-size: 26px 26px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#ninedots-categories-list a.tl-link.active .span-playtrack-thumb{
+	background: url('category-active.png');
+	background-size: 30px 29px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ninedots-player .span-playtrack-thumb{
+	background: url('audio-text.png');
+	background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ninedots-player .mailLink {
+    padding: 20pt 15pt 12pt!important;
+}
+
+.ninedots-player .facebookLink {
+    padding: 10pt 20pt!important;
+}
+
+.ninedots-player .twitterLink {
+    padding: 11pt 16pt!important;
+}
+
+.ninedots-player .linkedinLink {
+    padding: 11pt 17pt!important;
+}
+
+.img.span-refresh{
+	display: none;
+}
+
+.ninedots-player .span-playtrack-thumb img{
+	display: none;
+}
+
+.ninedots-player a:hover, .ninedots-player a, #dots-player-button a:hover, #dots-player-button, #nine-dots-player * {
+	box-shadow:unset !important;
+	-webkit-box-shadow:unset !important;
+	text-decoration: unset;
+}
+
+.ninedots-player .tl-title{
+	padding: 0px 10px 0 5px;
+}
+
+#nine-dots-player span#button-span-play {
+    display: none;
+}
+
+#nine-dots-player .hvr-outline-out {
+    background: url(155x40playbtnppi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 192px;
+    border: unset;
+    border-radius: unset;
+    height: 50px;
+    cursor: pointer;
+    margin-top: 7px;
+    margin-left: 0px;
+}
+
+#nine-dots-player span.play-text {
+    display: none;
+}
+
+.preloader {
+    background: url("animation_200.gif");
+        background-size: 30%;
+    background-position: center;
+    border: unset;
+    background-repeat: no-repeat;
+
+}
+.preloader * {
+	display:none !important;
+}
+
+
